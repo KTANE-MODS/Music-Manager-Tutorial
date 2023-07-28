@@ -2,6 +2,12 @@
 
 Music Manager allows you to add custom background songs that can play during Setup, Gameplay, and when a bomb explodes or is defused.
 
+## Disclaimer
+
+I did not make this mod nor am I mataining it. This is just a guide on how to get it working. If you notice something is wrong or something could be added, DM on discord, `blckhawker`.
+
+## Guide
+
 1. Subscribe to [Music Manager](https://steamcommunity.com/sharedfiles/filedetails/?id=1307302019&searchtext=music+manager) on the Steam Workshop
 2. Launch the game at least once with the mod installed.
 3. Close the game
