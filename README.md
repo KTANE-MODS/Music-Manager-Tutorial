@@ -64,7 +64,7 @@ Music Manager allows you to add custom background songs that can play during Set
     - Ex: Explosion
     ```	
     "PostGameLose": {
-        "Tracks": ["Loss.ogg"],
+        "Tracks": ["C:/Users/username/Desktop/Tracks/Loss.ogg"],
         "AllowDefaults": false
     }
 	```
