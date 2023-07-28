@@ -1,0 +1,28 @@
+{
+    "Setup": {
+        "Tracks": [
+        ],
+        "AllowDefaults": false
+    },
+    "Gameplay": {
+        "Playlists": [
+            {
+                "Tracks": [
+                ],
+                "TracksFolder": INSERT YOUR FILE PATH HERE,
+                "Name": "MyGameplayPlaylist"
+            }
+        ],
+        "AllowDefaults": false
+    },
+    "PostGameWin": {
+        "Tracks": [
+        ],
+        "AllowDefaults": false
+    },
+    "PostGameLose": {
+        "Tracks": [
+        ],
+        "AllowDefaults": false
+    }
+}
