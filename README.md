@@ -7,7 +7,7 @@ Music Manager allows you to add custom background songs that can play during Set
 3. Close the game
 3. Create a folder that will hold your music tracks
     - The name and location of the folder is not important
- 4. Download this file and put it in your Tracks folder (**insert file**)
+ 4. Download [this](https://github.com/KTANE-MODS/Music-Manager-Tutorial/blob/main/MusicManager-settings.txt) file and put it in your Tracks folder
 4. Insert your music tracks into your Tracks folder.
 
 5. Adjust the volume of your tracks via an audio editor
@@ -98,5 +98,6 @@ Music Manager allows you to add custom background songs that can play during Set
 ### Misc. Notes
 - You will hear the default music in the Setup room until you exit out of a bomb
 - If you change the location of your Tracks folder, you will need to update all the paths to where it currently is
+- If you delete the Tracks folder, this will not work, regardless if you followed all the steps
 - If you want the default music to play for a certain room, change the value after `AllowDefaults` from `false` to `true`
 - For the Gameplay section, it's not neccessary to include the entire path. Instead, you can just say the name of the track including the file type in `"` Ex: `"Gameplay.ogg"`
