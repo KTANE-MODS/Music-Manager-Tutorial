@@ -98,4 +98,5 @@ Music Manager allows you to add custom background songs that can play during Set
 ### Misc. Notes
 - You will hear the default music in the Setup room until you exit out of a bomb
 - If you change the location of your Tracks folder, you will need to update all the paths to where it currently is
-- If you want the default music to play for a certain room, change the value after `AllowDefaults` from `false` to `true` 
+- If you want the default music to play for a certain room, change the value after `AllowDefaults` from `false` to `true`
+- For the Gameplay section, it's not neccessary to include the entire path. Instead, you can just say the name of the track including the file type in `"` Ex: `"Gameplay.ogg"`
