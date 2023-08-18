@@ -8,7 +8,7 @@ I did not make this mod nor am I mataining it. This is just a guide on how to ge
 
 ## Guide
 
-Here's a video tutorial: https://youtu.be/mRxmjWtItWQ
+Here's a video tutorial that goes through all of the following steps: https://youtu.be/mRxmjWtItWQ
 
 1. Subscribe to [Music Manager](https://steamcommunity.com/sharedfiles/filedetails/?id=1307302019&searchtext=music+manager) on the Steam Workshop
 2. Launch the game at least once with the mod installed.
